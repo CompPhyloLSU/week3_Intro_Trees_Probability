@@ -1,0 +1,23 @@
+Dryad site the tree came from:
+https://datadryad.org/resource/doi:10.5061/dryad.622h6
+
+Link to the original paper's pdf:
+https://appliedecology.cals.ncsu.edu/absci/wp-content/uploads/Geneva-et-al.-2015.pdf
+
+Paper title: 
+Multilocus phylogenetic analyses of Hispaniolan and Bahamian trunk
+anoles (distichus species group)
+
+Authors: 
+Anthony J. Geneva , Jared Hilton , Sabina Noll , Richard E. Glor 
+
+File type:
+Nexus
+
+Contains:
+     Taxa Block
+	 topology
+	 branch lengths
+	 probability of partitions
+	 
+	 **note used the mr.bayes resulted tree
